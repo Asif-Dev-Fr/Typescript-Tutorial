@@ -8,9 +8,12 @@ import TypeScriptImg_6 from "../../assets/images/Typescript_06.png"
 import TypeScriptImg_7 from "../../assets/images/Typescript_07.png"
 import TypeScriptImg_8 from "../../assets/images/Typescript_08.png"
 import TypeScriptImg_9 from "../../assets/images/Typescript_09.png"
+import TypeScriptImg_10 from "../../assets/images/Typescript_10.png"
+import TypeScriptImg_11 from "../../assets/images/Typescript_11.png"
 
 
 const Basics = () => {
+    // https://www.youtube.com/watch?v=d56mG7DezGs&t=1989s&ab_channel=ProgrammingwithMosh
     const [styleState] = useState({
         marginTop: "10px",
         marginLeft: "10px",
@@ -26,7 +29,9 @@ const Basics = () => {
         TypeScriptImg_6,
         TypeScriptImg_7,
         TypeScriptImg_8,
-        TypeScriptImg_9
+        TypeScriptImg_9,
+        TypeScriptImg_10,
+        TypeScriptImg_11
     ]);
     const [age, setAge] = useState(Number)
 
