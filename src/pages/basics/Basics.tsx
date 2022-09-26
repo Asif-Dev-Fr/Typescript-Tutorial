@@ -10,6 +10,9 @@ import TypeScriptImg_8 from "../../assets/images/Typescript_08.png"
 import TypeScriptImg_9 from "../../assets/images/Typescript_09.png"
 import TypeScriptImg_10 from "../../assets/images/Typescript_10.png"
 import TypeScriptImg_11 from "../../assets/images/Typescript_11.png"
+import TypeScriptImg_12 from "../../assets/images/Typescript_12.png"
+import TypeScriptImg_13 from "../../assets/images/Typescript_13.png"
+
 
 
 const Basics = () => {
@@ -31,7 +34,9 @@ const Basics = () => {
         TypeScriptImg_8,
         TypeScriptImg_9,
         TypeScriptImg_10,
-        TypeScriptImg_11
+        TypeScriptImg_11,
+        TypeScriptImg_12,
+        TypeScriptImg_13
     ]);
     const [age, setAge] = useState(Number)
 
